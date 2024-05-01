@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tivoxik
 - 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript and C#
 
 <!---
 Tivoxik/Tivoxik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
